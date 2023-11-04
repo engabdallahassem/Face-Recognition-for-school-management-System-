@@ -1,4 +1,5 @@
-# This project aims to create a smart rehabilitation device that can be utilized at home
+# Smart rehabilitation device using EMG sensor
+This project aims to create a smart rehabilitation device that can be utilized at home
 and without the need to leave your house.
 If the doctor following the patient’s condition needs to follow up on the patient ai a
 whole report will be sent to the doctor directly.
